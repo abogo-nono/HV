@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="on">
+    <file>icons/on/box.svg</file>
+    <file>icons/on/menu.svg</file>
+    <file>icons/on/search.svg</file>
+    <file>icons/on/user.svg</file>
+    <file>icons/on/activity.svg</file>
+    <file>icons/on/airplay.svg</file>
+    <file>icons/on/cpu.svg</file>
+    <file>icons/on/disc.svg</file>
+    <file>icons/on/info.svg</file>
+    <file>icons/on/wifi.svg</file>
+    <file>icons/on/x-octagon.svg</file>
+  </qresource>
+  <qresource prefix="off">
+    <file>icons/off/activity.svg</file>
+    <file>icons/off/airplay.svg</file>
+    <file>icons/off/cpu.svg</file>
+    <file>icons/off/disc.svg</file>
+    <file>icons/off/info.svg</file>
+    <file>icons/off/wifi.svg</file>
+    <file>icons/off/x-octagon.svg</file>
+  </qresource>
+  <qresource prefix="others_off">
+    <file>icons/others_off/box.svg</file>
+    <file>icons/others_off/menu.svg</file>
+    <file>icons/others_off/search.svg</file>
+    <file>icons/others_off/user.svg</file>
+  </qresource>
+</RCC>

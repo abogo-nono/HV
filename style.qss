@@ -1,0 +1,132 @@
+/* style for main window */
+#MainWindow {
+    background-color: #111024;
+}
+
+/* style for button to change menu style */
+#change_btn {
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+/* style for header widget */
+#header_widget {
+    background-color: #111137;
+}
+
+/* style for menu with icons only */
+/* Style for widget */
+#icons_only_widget {
+    background-color: #0d0c24;
+    width: 50px;
+}
+
+/* style for QPushButton and QLabel */
+#icons_only_widget QPushButton {
+    width: 50px;
+    height: 30px;
+    border: none;
+    margin: 2px 4px;
+    border-radius: 5px;
+    /* border-bottom: 1px solid #b0b0b0; */
+}
+
+#icons_only_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+/* style for logo image */
+#logo_label_1 {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* style for menu with icons */
+
+/* style for widget */
+#full_menu_widget {
+    background-color: #0d0c24;
+}
+
+/* style for QPushButton */
+
+#full_menu_widget QPushButton {
+    border: none;
+    border-radius: 3px;
+    text-align: left;
+    padding: 8px 0px 8px 15px;
+    color: #788596;
+    font-weight: bold;
+    margin: 2px 0px;
+}
+
+#full_menu_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+#full_menu_widget QPushButton:checked,
+#icons_only_widget QPushButton:checked {
+    color: #e0dce8;
+    background-color: #412581;
+}
+
+/* style for logo image */
+#logo_label_2 {
+    padding: 5px;
+}
+
+
+/* style for app title */
+#logo_label_3 {
+    padding-right: 10px;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* style for search button */
+#search_btn {
+    border: none;
+    /* qproperty-icon: url(:/icons/icons/feather/search.svg); */
+}
+
+
+/* style for search input */
+#search_input {
+    border: none;
+    padding: 8px 10px;
+    width: 200%;
+    background: transparent;
+    color: #e0dce8;
+    border-radius: 15px;
+}
+
+#search_input:focus {
+    border: none;
+    border-bottom: 1px solid #412581;
+    background-color: #412581be;
+}
+
+/* style for user information button */
+#user_btn {
+    border: none;
+}
+
+#quit_btn_1,
+#quit_btn_2 {
+    background-color: rgba(185, 36, 36, 0.644);
+    color: #fff;
+}
+
+#full_menu_widget QPushButton#quit_btn_1:hover,
+#icons_only_widget QPushButton#quit_btn_2:hover {
+    background-color: rgba(255, 0, 0, 0.644);
+    color: #fff;
+}
+
+QStackedWidget
+QWidget
+QLabel {
+    color: #e0dce8;
+}
