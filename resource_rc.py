@@ -318,7 +318,7 @@ th><path d=\x22M20 \
  d=\x22M1 14L4 14\x22>\
 </path></g></g><\
 /svg>\
-\x00\x00\x02*\
+\x00\x00\x02,\
 <\
 svg xmlns=\x22http:\
 //www.w3.org/200\
@@ -330,32 +330,32 @@ itle><rect data-\
 element=\x22frame\x22 \
 x=\x220\x22 y=\x220\x22 widt\
 h=\x2224\x22 height=\x222\
-4\x22 rx=\x225\x22 ry=\x225\x22\
- stroke=\x22none\x22 f\
-ill=\x22#F7F7F7\x22 tr\
-ansform=\x22transla\
-te(1 1)\x22></rect>\
-<g stroke-lineca\
-p=\x22round\x22 class=\
-\x22nc-icon-wrapper\
-\x22 fill=\x22none\x22 st\
-roke=\x22#412581\x22 s\
-troke-width=\x222\x22 \
-stroke-linejoin=\
-\x22round\x22 transfor\
-m=\x22translate(4.8\
-00000000000001 4\
+4\x22 rx=\x2212\x22 ry=\x221\
+2\x22 stroke=\x22none\x22\
+ fill=\x22#F7F7F7\x22 \
+transform=\x22trans\
+late(1 1)\x22></rec\
+t><g stroke-line\
+cap=\x22round\x22 clas\
+s=\x22nc-icon-wrapp\
+er\x22 fill=\x22none\x22 \
+stroke=\x22#412581\x22\
+ stroke-width=\x224\
+\x22 stroke-linejoi\
+n=\x22round\x22 transf\
+orm=\x22translate(4\
 .800000000000001\
-) scale(0.6)\x22><g\
- transform=\x22tran\
-slate(1 1)\x22><cir\
-cle cx=\x2212\x22 cy=\x22\
-12\x22 r=\x2210\x22></cir\
-cle><circle cx=\x22\
-12\x22 cy=\x2212\x22 r=\x223\
-\x22></circle></g><\
-/g></svg>\
-\x00\x00\x02\x85\
+ 4.8000000000000\
+01) scale(0.6)\x22>\
+<g transform=\x22tr\
+anslate(1 1)\x22><c\
+ircle cx=\x2212\x22 cy\
+=\x2212\x22 r=\x2210\x22></c\
+ircle><circle cx\
+=\x2212\x22 cy=\x2212\x22 r=\
+\x223\x22></circle></g\
+></g></svg>\
+\x00\x00\x02\x87\
 <\
 svg xmlns=\x22http:\
 //www.w3.org/200\
@@ -367,38 +367,38 @@ itle><rect data-\
 element=\x22frame\x22 \
 x=\x220\x22 y=\x220\x22 widt\
 h=\x2224\x22 height=\x222\
-4\x22 rx=\x225\x22 ry=\x225\x22\
- stroke=\x22none\x22 f\
-ill=\x22#F7F7F7\x22 tr\
-ansform=\x22transla\
-te(1 1)\x22></rect>\
-<g stroke-lineca\
-p=\x22round\x22 class=\
-\x22nc-icon-wrapper\
-\x22 fill=\x22none\x22 st\
-roke=\x22#412581\x22 s\
-troke-width=\x222\x22 \
-stroke-linejoin=\
-\x22round\x22 transfor\
-m=\x22translate(4.8\
-00000000000001 4\
+4\x22 rx=\x2212\x22 ry=\x221\
+2\x22 stroke=\x22none\x22\
+ fill=\x22#F7F7F7\x22 \
+transform=\x22trans\
+late(1 1)\x22></rec\
+t><g stroke-line\
+cap=\x22round\x22 clas\
+s=\x22nc-icon-wrapp\
+er\x22 fill=\x22none\x22 \
+stroke=\x22#412581\x22\
+ stroke-width=\x224\
+\x22 stroke-linejoi\
+n=\x22round\x22 transf\
+orm=\x22translate(4\
 .800000000000001\
-) scale(0.6)\x22><g\
- transform=\x22tran\
-slate(1 1)\x22><pat\
-h d=\x22M5 12.55a11\
- 11 0 0 1 14.08 \
-0\x22></path><path \
-d=\x22M1.42 9a16 16\
- 0 0 1 21.16 0\x22>\
+ 4.8000000000000\
+01) scale(0.6)\x22>\
+<g transform=\x22tr\
+anslate(1 1)\x22><p\
+ath d=\x22M5 12.55a\
+11 11 0 0 1 14.0\
+8 0\x22></path><pat\
+h d=\x22M1.42 9a16 \
+16 0 0 1 21.16 0\
+\x22></path><path d\
+=\x22M8.53 16.11a6 \
+6 0 0 1 6.95 0\x22>\
 </path><path d=\x22\
-M8.53 16.11a6 6 \
-0 0 1 6.95 0\x22></\
-path><path d=\x22M1\
-2 20L12.01 20\x22><\
-/path></g></g></\
-svg>\
-\x00\x00\x02r\
+M12 20L12.01 20\x22\
+></path></g></g>\
+</svg>\
+\x00\x00\x02t\
 <\
 svg xmlns=\x22http:\
 //www.w3.org/200\
@@ -410,37 +410,37 @@ on</title><rect \
 data-element=\x22fr\
 ame\x22 x=\x220\x22 y=\x220\x22\
  width=\x2224\x22 heig\
-ht=\x2224\x22 rx=\x225\x22 r\
-y=\x225\x22 stroke=\x22no\
-ne\x22 fill=\x22#F7F7F\
-7\x22 transform=\x22tr\
-anslate(1 1)\x22></\
-rect><g stroke-l\
-inecap=\x22round\x22 c\
-lass=\x22nc-icon-wr\
-apper\x22 fill=\x22non\
-e\x22 stroke=\x22#4125\
-81\x22 stroke-width\
-=\x222\x22 stroke-line\
-join=\x22round\x22 tra\
-nsform=\x22translat\
-e(4.800000000000\
-001 4.8000000000\
-00001) scale(0.6\
-)\x22><g transform=\
-\x22translate(1 1)\x22\
-><path d=\x22M7.86 \
-2L16.14 2 22 7.8\
-6 22 16.14 16.14\
- 22 7.86 22 2 16\
-.14 2 7.86 7.86 \
-2z\x22></path><path\
- d=\x22M15 9L9 15\x22>\
-</path><path d=\x22\
-M9 9L15 15\x22></pa\
-th></g></g></svg\
->\
-\x00\x00\x02@\
+ht=\x2224\x22 rx=\x2212\x22 \
+ry=\x2212\x22 stroke=\x22\
+none\x22 fill=\x22#F7F\
+7F7\x22 transform=\x22\
+translate(1 1)\x22>\
+</rect><g stroke\
+-linecap=\x22round\x22\
+ class=\x22nc-icon-\
+wrapper\x22 fill=\x22n\
+one\x22 stroke=\x22#41\
+2581\x22 stroke-wid\
+th=\x224\x22 stroke-li\
+nejoin=\x22round\x22 t\
+ransform=\x22transl\
+ate(4.8000000000\
+00001 4.80000000\
+0000001) scale(0\
+.6)\x22><g transfor\
+m=\x22translate(1 1\
+)\x22><path d=\x22M7.8\
+6 2L16.14 2 22 7\
+.86 22 16.14 16.\
+14 22 7.86 22 2 \
+16.14 2 7.86 7.8\
+6 2z\x22></path><pa\
+th d=\x22M15 9L9 15\
+\x22></path><path d\
+=\x22M9 9L15 15\x22></\
+path></g></g></s\
+vg>\
+\x00\x00\x02B\
 <\
 svg xmlns=\x22http:\
 //www.w3.org/200\
@@ -452,32 +452,33 @@ itle><rect data-\
 element=\x22frame\x22 \
 x=\x220\x22 y=\x220\x22 widt\
 h=\x2224\x22 height=\x222\
-4\x22 rx=\x225\x22 ry=\x225\x22\
- stroke=\x22none\x22 f\
-ill=\x22#F7F7F7\x22 tr\
-ansform=\x22transla\
-te(1 1)\x22></rect>\
-<g stroke-lineca\
-p=\x22round\x22 class=\
-\x22nc-icon-wrapper\
-\x22 fill=\x22none\x22 st\
-roke=\x22#412581\x22 s\
-troke-width=\x222\x22 \
-stroke-linejoin=\
-\x22round\x22 transfor\
-m=\x22translate(4.8\
-00000000000001 4\
+4\x22 rx=\x2212\x22 ry=\x221\
+2\x22 stroke=\x22none\x22\
+ fill=\x22#F7F7F7\x22 \
+transform=\x22trans\
+late(1 1)\x22></rec\
+t><g stroke-line\
+cap=\x22round\x22 clas\
+s=\x22nc-icon-wrapp\
+er\x22 fill=\x22none\x22 \
+stroke=\x22#412581\x22\
+ stroke-width=\x224\
+\x22 stroke-linejoi\
+n=\x22round\x22 transf\
+orm=\x22translate(4\
 .800000000000001\
-) scale(0.6)\x22><g\
- transform=\x22tran\
-slate(1 1)\x22><cir\
-cle cx=\x2212\x22 cy=\x22\
-12\x22 r=\x2210\x22></cir\
-cle><path d=\x22M12\
- 16L12 12\x22></pat\
-h><path d=\x22M12 8\
-L12.01 8\x22></path\
-></g></g></svg>\
+ 4.8000000000000\
+01) scale(0.6)\x22>\
+<g transform=\x22tr\
+anslate(1 1)\x22><c\
+ircle cx=\x2212\x22 cy\
+=\x2212\x22 r=\x2210\x22></c\
+ircle><path d=\x22M\
+12 16L12 12\x22></p\
+ath><path d=\x22M12\
+ 8L12.01 8\x22></pa\
+th></g></g></svg\
+>\
 \x00\x00\x02>\
 <\
 svg xmlns=\x22http:\
@@ -573,7 +574,7 @@ l13.27 18.99 23.\
 9\x22 stroke=\x22#4125\
 81\x22></path></g><\
 /g></svg>\
-\x00\x00\x02\x11\
+\x00\x00\x02\x13\
 <\
 svg xmlns=\x22http:\
 //www.w3.org/200\
@@ -585,30 +586,30 @@ y</title><rect d\
 ata-element=\x22fra\
 me\x22 x=\x220\x22 y=\x220\x22 \
 width=\x2224\x22 heigh\
-t=\x2224\x22 rx=\x225\x22 ry\
-=\x225\x22 stroke=\x22non\
-e\x22 fill=\x22#F7F7F7\
-\x22 transform=\x22tra\
-nslate(1 1)\x22></r\
-ect><g stroke-li\
-necap=\x22round\x22 cl\
-ass=\x22nc-icon-wra\
-pper\x22 fill=\x22none\
-\x22 stroke=\x22#41258\
-1\x22 stroke-width=\
-\x222\x22 stroke-linej\
-oin=\x22round\x22 tran\
-sform=\x22translate\
-(4.8000000000000\
-01 4.80000000000\
-0001) scale(0.6)\
-\x22><g transform=\x22\
-translate(1 1)\x22>\
-<path d=\x22M22 12L\
-18 12 15 21 9 3 \
-6 12 2 12\x22></pat\
-h></g></g></svg>\
-\
+t=\x2224\x22 rx=\x2212\x22 r\
+y=\x2212\x22 stroke=\x22n\
+one\x22 fill=\x22#F7F7\
+F7\x22 transform=\x22t\
+ranslate(1 1)\x22><\
+/rect><g stroke-\
+linecap=\x22round\x22 \
+class=\x22nc-icon-w\
+rapper\x22 fill=\x22no\
+ne\x22 stroke=\x22#412\
+581\x22 stroke-widt\
+h=\x224\x22 stroke-lin\
+ejoin=\x22round\x22 tr\
+ansform=\x22transla\
+te(4.80000000000\
+0001 4.800000000\
+000001) scale(0.\
+6)\x22><g transform\
+=\x22translate(1 1)\
+\x22><path d=\x22M22 1\
+2L18 12 15 21 9 \
+3 6 12 2 12\x22></p\
+ath></g></g></sv\
+g>\
 \x00\x00\x02*\
 <\
 svg xmlns=\x22http:\
@@ -684,7 +685,7 @@ ath d=\x22M3 12L21 \
 3 18L21 18\x22></pa\
 th></g></g></svg\
 >\
-\x00\x00\x02d\
+\x00\x00\x02f\
 <\
 svg xmlns=\x22http:\
 //www.w3.org/200\
@@ -696,36 +697,36 @@ ewBox=\x220 0 26 26\
 ta-element=\x22fram\
 e\x22 x=\x220\x22 y=\x220\x22 w\
 idth=\x2224\x22 height\
-=\x2224\x22 rx=\x225\x22 ry=\
-\x225\x22 stroke=\x22none\
-\x22 fill=\x22#F7F7F7\x22\
- transform=\x22tran\
-slate(1 1)\x22></re\
-ct><g stroke-lin\
-ecap=\x22round\x22 cla\
-ss=\x22nc-icon-wrap\
-per\x22 fill=\x22none\x22\
- stroke=\x22#412581\
-\x22 stroke-width=\x22\
-2\x22 stroke-linejo\
-in=\x22round\x22 trans\
-form=\x22translate(\
-4.80000000000000\
-1 4.800000000000\
-001) scale(0.6)\x22\
-><g transform=\x22t\
-ranslate(1 1)\x22><\
-path d=\x22M5 17H4a\
-2 2 0 0 1-2-2V5a\
-2 2 0 0 1 2-2h16\
-a2 2 0 0 1 2 2v1\
-0a2 2 0 0 1-2 2h\
--1\x22></path><path\
- d=\x22M12 15L17 21\
- 7 21 12 15z\x22></\
-path></g></g></s\
-vg>\
-\x00\x00\x03\x17\
+=\x2224\x22 rx=\x2212\x22 ry\
+=\x2212\x22 stroke=\x22no\
+ne\x22 fill=\x22#F7F7F\
+7\x22 transform=\x22tr\
+anslate(1 1)\x22></\
+rect><g stroke-l\
+inecap=\x22round\x22 c\
+lass=\x22nc-icon-wr\
+apper\x22 fill=\x22non\
+e\x22 stroke=\x22#4125\
+81\x22 stroke-width\
+=\x224\x22 stroke-line\
+join=\x22round\x22 tra\
+nsform=\x22translat\
+e(4.800000000000\
+001 4.8000000000\
+00001) scale(0.6\
+)\x22><g transform=\
+\x22translate(1 1)\x22\
+><path d=\x22M5 17H\
+4a2 2 0 0 1-2-2V\
+5a2 2 0 0 1 2-2h\
+16a2 2 0 0 1 2 2\
+v10a2 2 0 0 1-2 \
+2h-1\x22></path><pa\
+th d=\x22M12 15L17 \
+21 7 21 12 15z\x22>\
+</path></g></g><\
+/svg>\
+\x00\x00\x03\x19\
 <\
 svg xmlns=\x22http:\
 //www.w3.org/200\
@@ -737,46 +738,46 @@ tle><rect data-e\
 lement=\x22frame\x22 x\
 =\x220\x22 y=\x220\x22 width\
 =\x2224\x22 height=\x2224\
-\x22 rx=\x225\x22 ry=\x225\x22 \
-stroke=\x22none\x22 fi\
-ll=\x22#F7F7F7\x22 tra\
-nsform=\x22translat\
-e(1 1)\x22></rect><\
-g stroke-linecap\
-=\x22round\x22 class=\x22\
-nc-icon-wrapper\x22\
- fill=\x22none\x22 str\
-oke=\x22#412581\x22 st\
-roke-width=\x222\x22 s\
-troke-linejoin=\x22\
-round\x22 transform\
-=\x22translate(4.80\
-0000000000001 4.\
-800000000000001)\
- scale(0.6)\x22><g \
-transform=\x22trans\
-late(1 1)\x22><rect\
- x=\x224\x22 y=\x224\x22 wid\
-th=\x2216\x22 height=\x22\
-16\x22 rx=\x222\x22 ry=\x222\
-\x22></rect><path d\
-=\x22M9 9H15V15H9z\x22\
-></path><path d=\
-\x22M9 1L9 4\x22></pat\
-h><path d=\x22M15 1\
-L15 4\x22></path><p\
-ath d=\x22M9 20L9 2\
+\x22 rx=\x2212\x22 ry=\x2212\
+\x22 stroke=\x22none\x22 \
+fill=\x22#F7F7F7\x22 t\
+ransform=\x22transl\
+ate(1 1)\x22></rect\
+><g stroke-linec\
+ap=\x22round\x22 class\
+=\x22nc-icon-wrappe\
+r\x22 fill=\x22none\x22 s\
+troke=\x22#412581\x22 \
+stroke-width=\x224\x22\
+ stroke-linejoin\
+=\x22round\x22 transfo\
+rm=\x22translate(4.\
+800000000000001 \
+4.80000000000000\
+1) scale(0.6)\x22><\
+g transform=\x22tra\
+nslate(1 1)\x22><re\
+ct x=\x224\x22 y=\x224\x22 w\
+idth=\x2216\x22 height\
+=\x2216\x22 rx=\x222\x22 ry=\
+\x222\x22></rect><path\
+ d=\x22M9 9H15V15H9\
+z\x22></path><path \
+d=\x22M9 1L9 4\x22></p\
+ath><path d=\x22M15\
+ 1L15 4\x22></path>\
+<path d=\x22M9 20L9\
+ 23\x22></path><pat\
+h d=\x22M15 20L15 2\
 3\x22></path><path \
-d=\x22M15 20L15 23\x22\
-></path><path d=\
-\x22M20 9L23 9\x22></p\
-ath><path d=\x22M20\
- 14L23 14\x22></pat\
-h><path d=\x22M1 9L\
-4 9\x22></path><pat\
-h d=\x22M1 14L4 14\x22\
-></path></g></g>\
-</svg>\
+d=\x22M20 9L23 9\x22><\
+/path><path d=\x22M\
+20 14L23 14\x22></p\
+ath><path d=\x22M1 \
+9L4 9\x22></path><p\
+ath d=\x22M1 14L4 1\
+4\x22></path></g></\
+g></svg>\
 "
 
 qt_resource_name = b"\
@@ -886,27 +887,27 @@ qt_resource_struct = b"\
 \x00\x00\x00\x00\x00\x02\x00\x00\x00\x0b\x00\x00\x00\x15\
 \x00\x00\x00\x00\x00\x00\x00\x00\
 \x00\x00\x00\x9a\x00\x00\x00\x00\x00\x01\x00\x00\x11\xf9\
-\x00\x00\x01\x8e\x15Y\x1e\xda\
-\x00\x00\x01\x1a\x00\x00\x00\x00\x00\x01\x00\x00'\x93\
-\x00\x00\x01\x8e\x15Y\x1e\xd7\
-\x00\x00\x00\xe6\x00\x00\x00\x00\x00\x01\x00\x00\x19&\
-\x00\x00\x01\x8e\x15Y\x1e\xdb\
-\x00\x00\x00j\x00\x00\x00\x00\x00\x01\x00\x00#/\
+\x00\x00\x01\x8e\x18*\xae\xfb\
+\x00\x00\x01\x1a\x00\x00\x00\x00\x00\x01\x00\x00'\x9d\
+\x00\x00\x01\x8e\x18*\xae\xf7\
+\x00\x00\x00\xe6\x00\x00\x00\x00\x00\x01\x00\x00\x19,\
+\x00\x00\x01\x8e\x18*\xae\xfd\
+\x00\x00\x00j\x00\x00\x00\x00\x00\x01\x00\x00#9\
 \x00\x00\x01\x8e\x15s\xe6\x04\
-\x00\x00\x00V\x00\x00\x00\x00\x00\x01\x00\x00\x1d\xac\
+\x00\x00\x00V\x00\x00\x00\x00\x00\x01\x00\x00\x1d\xb4\
 \x00\x00\x01\x8e\x15\xc5k\x0f\
-\x00\x00\x00@\x00\x00\x00\x00\x00\x01\x00\x00\x1bj\
+\x00\x00\x00@\x00\x00\x00\x00\x00\x01\x00\x00\x1br\
 \x00\x00\x01\x8e\x15s\xe6\x05\
-\x00\x00\x016\x00\x00\x00\x00\x00\x01\x00\x00)\xfb\
-\x00\x00\x01\x8e\x15Y\x1e\xd9\
-\x00\x00\x00\xfc\x00\x00\x00\x00\x00\x01\x00\x00!\x1a\
-\x00\x00\x01\x8e\x15Y\x1e\xd7\
-\x00\x00\x00\x84\x00\x00\x00\x00\x00\x01\x00\x00%]\
+\x00\x00\x016\x00\x00\x00\x00\x00\x01\x00\x00*\x07\
+\x00\x00\x01\x8e\x18*\xae\xfb\
+\x00\x00\x00\xfc\x00\x00\x00\x00\x00\x01\x00\x00!\x22\
+\x00\x00\x01\x8e\x18*\xae\xf7\
+\x00\x00\x00\x84\x00\x00\x00\x00\x00\x01\x00\x00%g\
 \x00\x00\x01\x8e\x15s\xe6\x04\
-\x00\x00\x00\xc6\x00\x00\x00\x00\x00\x01\x00\x00\x16\xb0\
-\x00\x00\x01\x8e\x15Y\x1e\xde\
-\x00\x00\x00\xb0\x00\x00\x00\x00\x00\x01\x00\x00\x14'\
-\x00\x00\x01\x8e\x15Y\x1e\xdb\
+\x00\x00\x00\xc6\x00\x00\x00\x00\x00\x01\x00\x00\x16\xb4\
+\x00\x00\x01\x8e\x18*\xae\xff\
+\x00\x00\x00\xb0\x00\x00\x00\x00\x00\x01\x00\x00\x14)\
+\x00\x00\x01\x8e\x18*\xae\xfd\
 "
 
 def qInitResources():
